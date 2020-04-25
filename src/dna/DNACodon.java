@@ -3,7 +3,7 @@ package dna;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+//changinggggggggggggggggggggggggggggggggggggggg
 public class DNACodon {
     private Map<String, List<String>> aminoAcids;
     private Map<String, String> codons;
